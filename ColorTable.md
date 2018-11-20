@@ -2,7 +2,7 @@
 * 实际效果参考
   [RGB to Color Name Mapping (Triplet and Hex)](https://web.njit.edu/~kevin/rgb.txt.html)
 
-
+```
 255 250 250     snow
 248 248 255     ghost white
 248 248 255     GhostWhite
@@ -755,7 +755,7 @@
 139   0   0     DarkRed
 144 238 144     light green
 144 238 144     LightGreen
-
+```
 
 Imager::Color::Table - built-in Imager color table
 
