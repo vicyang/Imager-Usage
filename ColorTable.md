@@ -1,4 +1,8 @@
-Imager::Color::Table;
+* Imager::Color::Table;   
+* 实际效果参考
+  [RGB to Color Name Mapping (Triplet and Hex)](https://web.njit.edu/~kevin/rgb.txt.html)
+
+
 255 250 250     snow
 248 248 255     ghost white
 248 248 255     GhostWhite
