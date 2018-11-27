@@ -37,7 +37,7 @@ sub get_text
 
     # 填充画布背景色
     $img->box(xmin => 0, ymin => 0, xmax => $w, ymax => $h,
-            filled => 1, color => '#336699');
+            filled => 1, color => 'white');
 
     $img->align_string(
                font  => $font,
